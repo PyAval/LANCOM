@@ -12,4 +12,4 @@
 6.exe文件生成于./dist下
 
 #直接使用\
-下载并双击LANCOM.exe文件，解压后运行./LANCOM/LANCOM.exe\
+下载并双击LANCOM.exe文件，解压后运行./LANCOM/LANCOM.exe
