@@ -9,7 +9,7 @@
 5.在文件路径下打开终端，执行以下代码：\
   单文件：pyinstaller -F -w LANCOM.py\
   多文件：pyinstaller -D -w LANCOM.py\
-6.exe文件生成于./dist下\
+6.exe文件生成于./dist下
 
 #直接使用\
 下载并双击LANCOM.exe文件，解压后运行./LANCOM/LANCOM.exe\
